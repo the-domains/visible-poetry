@@ -1,0 +1,14 @@
+layout_spectrum: 0.6756775
+typography_spectrum: 0.06836824
+color:
+  saturation: 0.7524363
+  lightness: 0.2976025
+  brandStrength: 0.8586766
+  rhythmicContrast: 0.6704322
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: visible poetry
